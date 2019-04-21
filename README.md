@@ -20,6 +20,6 @@ Compute count of fingers using the finger slices obtained in previous step<br/>
 <h4>To run the file use: python sudo.py</h4>
 <br/>
 <b>
-#f03c15 Memory Intensive Operation
-#f03c15 This script creates screenshot for every frame captured and stores it in directory 'screenshots'
-#f03c15 Hence, there is a little delay during frame capture
+#f03c15 Memory Intensive Operation<br/>
+#f03c15 This script creates screenshot for every frame captured and stores it in directory 'screenshots'<br/>
+#f03c15 Hence, there is a little delay during frame capture<br/>
