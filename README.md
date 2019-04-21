@@ -4,13 +4,11 @@ Hand Gesture Recognition using OpenCV and Python.
 # Detects finger movements of hands and shows appropriate output.
 <h3>Steps:</h3>
 <h4>Segment hand region from a real-time video sequence</h4>
-</br>
-<Background Subtraction
-Motion Detection and Thresholding
-Contour Extraction
+Background Subtraction</br>
+Motion Detection and Thresholding</br>
+Contour Extraction</br>
 
 <h4>Count fingers</h4>
-
 Get convex hull of the segmented hand region and compute the most extreme points in the convex hull<br/>
 Get center of palm using extremes points<br/>
 Using center of palm, construct a circle with the maximum Euclidean distance as radius<br/>
