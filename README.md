@@ -16,7 +16,7 @@ Perform bitwise AND operation on thresholded hand image and the circular ROI<br/
 Compute count of fingers using the finger slices obtained in previous step<br/>
 
 <h4>To run the file use: python sudo.py</h4>
-<b>
+
 #f03c15 Memory Intensive Operation<br/>
 #f03c15 This script creates screenshot for every frame captured and stores it in directory 'screenshots'<br/>
 #f03c15 Hence, there is a little delay during frame capture<br/>
